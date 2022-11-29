@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.194" y1="-0.411" x2="0.075" y2="1.166" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc4c02"/>
+      <stop offset="0.483" stop-color="#fc4f02"/>
+      <stop offset="1" stop-color="#fc8702"/>
+    </linearGradient>
+    <clipPath id="clip-logo">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect width="256" height="256" fill="rgba(4,4,4,0)"/>
+    <g id="Group_1577" data-name="Group 1577" transform="translate(-244.561 -39.979)">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="128" cy="128" r="128" transform="translate(244.56 39.979)" fill="url(#linear-gradient)"/>
+      <g id="Group_1" data-name="Group 1" transform="translate(303.39 111.936)">
+        <path id="Path_54" data-name="Path 54" d="M7.6-197.572H34.5l18.153-59.878h.276L67.34-197.572H78.1l34.433-59.878h.276l25.579.037-.158,22.554-26.174.026-1.119,37.262H137.98l.708-104.028h-26.9L80.648-246,68.324-301.6H41.7Z" transform="translate(-7.6 301.6)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

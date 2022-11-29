@@ -1,0 +1,164 @@
+Uri: https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css
+File Name: C:\Downloaded Web Sites\www.movez.me\mapbox-gl-js\v2.8.2\mapbox-gl.css
+Content Type: text/css
+
+Uri: https://igo.gamestarter.com/images/612f9cce81330511214a9d1a_Group_165.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\images\612f9cce81330511214a9d1a_Group_165.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/
+File Name: C:\Downloaded Web Sites\www.movez.me\index.htm
+Content Type: text/html
+
+Uri: https://www.movez.me/arrows.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/burnz-logo.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\burnz-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/cycling.jpeg
+File Name: C:\Downloaded Web Sites\www.movez.me\cycling.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.movez.me/futura.otf
+File Name: C:\Downloaded Web Sites\www.movez.me\futura.otf
+Content Type: font/otf
+
+Uri: https://www.movez.me/lifting.jpeg
+File Name: C:\Downloaded Web Sites\www.movez.me\lifting.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.movez.me/logo.png
+File Name: C:\Downloaded Web Sites\www.movez.me\logo.png
+Content Type: image/png
+
+Uri: https://www.movez.me/logos/bybit.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\logos\bybit.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/logos/gate.png
+File Name: C:\Downloaded Web Sites\www.movez.me\logos\gate.png
+Content Type: image/png
+
+Uri: https://www.movez.me/logos/huobi.png
+File Name: C:\Downloaded Web Sites\www.movez.me\logos\huobi.png
+Content Type: image/png
+
+Uri: https://www.movez.me/logos/mexc.png
+File Name: C:\Downloaded Web Sites\www.movez.me\logos\mexc.png
+Content Type: image/png
+
+Uri: https://www.movez.me/logos/okx.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\logos\okx.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/MMovez.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\MMovez.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/movez-logo.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\movez-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/privacy-policy
+File Name: C:\Downloaded Web Sites\www.movez.me\privacy-policy
+Content Type: text/html
+
+Uri: https://www.movez.me/surfing.jpeg
+File Name: C:\Downloaded Web Sites\www.movez.me\surfing.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.movez.me/terms-and-conditions
+File Name: C:\Downloaded Web Sites\www.movez.me\terms-and-conditions
+Content Type: text/html
+
+Uri: https://www.movez.me/tg.svg
+File Name: C:\Downloaded Web Sites\www.movez.me\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.movez.me/walking.jpeg
+File Name: C:\Downloaded Web Sites\www.movez.me\walking.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.movez.me/_next/static/chunks/257-217fed5e81a80fd8.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\257-217fed5e81a80fd8.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/2c796e83-54721f440504911b.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\2c796e83-54721f440504911b.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/313-b7007b663e5f62a5.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\313-b7007b663e5f62a5.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/433-58ad8d57eeaa0ad3.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\433-58ad8d57eeaa0ad3.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/49334eea-8c42148a42aa425f.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\49334eea-8c42148a42aa425f.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/6-c491d4496ecee414.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\6-c491d4496ecee414.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/cc1ef4e7-436facce3968d93b.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\cc1ef4e7-436facce3968d93b.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/fb7d5399-cfc744e18bb8ce29.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\fb7d5399-cfc744e18bb8ce29.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/framework-f2a9456b0f01e85a.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\framework-f2a9456b0f01e85a.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/main-dbc2aa04d4856f47.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\main-dbc2aa04d4856f47.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/pages/index-6e6698e2a892cd60.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\pages\index-6e6698e2a892cd60.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/pages/privacy-policy-8dbdd0cbe948abf6.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\pages\privacy-policy-8dbdd0cbe948abf6.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/pages/terms-and-conditions-2a38d042a8cd0742.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\pages\terms-and-conditions-2a38d042a8cd0742.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/pages/_app-eb24fb5b6c6e5793.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\pages\_app-eb24fb5b6c6e5793.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/chunks/webpack-b14e6f0345a2410c.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\chunks\webpack-b14e6f0345a2410c.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/css/3f2b13995684556e.css
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\css\3f2b13995684556e.css
+Content Type: text/css
+
+Uri: https://www.movez.me/_next/static/xMjUdlTxBMeG1HyDHTxfg/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\xMjUdlTxBMeG1HyDHTxfg\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/xMjUdlTxBMeG1HyDHTxfg/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\xMjUdlTxBMeG1HyDHTxfg\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://www.movez.me/_next/static/xMjUdlTxBMeG1HyDHTxfg/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.movez.me\_next\static\xMjUdlTxBMeG1HyDHTxfg\_ssgManifest.js
+Content Type: application/javascript
+
